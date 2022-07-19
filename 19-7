@@ -12,8 +12,8 @@
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Ajoniemi" id="0" comment="" altitude="80.0">
-      <Location longitude="23.4452833" latitude="60.4177833"/>
+    <Waypoint name="Letku" id="0" comment="" altitude="120.0">
+      <Location longitude="23.7738833" latitude="60.7038833"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
